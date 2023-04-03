@@ -1,3 +1,3 @@
 # NodeGroup2
 
-# N반 2조
+# N반 6조
